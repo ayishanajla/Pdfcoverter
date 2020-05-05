@@ -1,0 +1,7 @@
+{
+  "name": "hacker-anchor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

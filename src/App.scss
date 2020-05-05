@@ -1,0 +1,35 @@
+.rootApp{
+    ion-toast.toastMessage{
+        --background: rgb(33, 150, 243);
+        color: white;
+        font-size: 16px;
+    }
+    .label-fixed.sc-ion-label-md-h{
+        flex: 0 0 140px;
+    }
+    .label-fixed.sc-ion-label-ios-h {
+        flex: 0 0 140px;
+    }
+    .appHeader{
+        background: rgb(33, 150, 243);
+        color: white;
+        display: flex;
+        height: 48px;
+        text-align: center;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+}
